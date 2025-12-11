@@ -1,3 +1,6 @@
+#ifndef AUTHOR
+#define AUTHOR
+
 #include <iostream>
 
 using namespace std;
@@ -14,3 +17,4 @@ class Author{
     string getSurname();
 
 };
+#endif
